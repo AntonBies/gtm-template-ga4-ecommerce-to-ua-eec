@@ -1,5 +1,5 @@
-homepage: "https://antonbies.com"
+homepage: "https://digital-power.com"
 documentation: "https://antonbies.com/gtm-templates/ga4-ecommerce-to-ua-eec"
 versions:
-  - sha: TBA
+  - sha: e36dec9931417bacd5462cd0aec88741310027ef
     changeNotes: Initial release.
