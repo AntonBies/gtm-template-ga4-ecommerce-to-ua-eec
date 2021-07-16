@@ -1,0 +1,5 @@
+homepage: "https://antonbies.com"
+documentation: "https://antonbies.com/gtm-templates/ga4-ecommerce-to-ua-eec"
+versions:
+  - sha: 
+    changeNotes: Initial release.
