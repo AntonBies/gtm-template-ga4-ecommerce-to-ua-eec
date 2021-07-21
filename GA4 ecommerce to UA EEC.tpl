@@ -11,11 +11,6 @@ ___INFO___
 {
   "type": "MACRO",
   "id": "cvt_temp_public_id",
-  "categories": [
-    "ANALYTICS",
-    "UTILITY',
-    "TAG_MANAGEMENT"
-  ],
   "version": 1,
   "securityGroups": [],
   "displayName": "GA4 ecommerce to UA EEC",
@@ -204,6 +199,7 @@ if (ec.hasOwnProperty('items')) {
   }
   
   if (ev === 'remove_from_cart') {
+    eec.remove = {};
     eec.remove.products = ec.items.map((item) => {
       const product = mapItemToProduct(item);
       return product;
@@ -325,6 +321,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 15/07/2021, 12:52:32
+Created on 21/07/2021, 14:16:24
 
 
