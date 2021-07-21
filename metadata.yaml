@@ -1,5 +1,5 @@
 homepage: "https://antonbies.com"
 documentation: "https://antonbies.com/gtm-templates/ga4-ecommerce-to-ua-enhanced-ecommerce/"
 versions:
-  - sha: 
+  - sha: ff6a9470406d961cebd8de75579c8b39e4a0941b
     changeNotes: Initial release.
