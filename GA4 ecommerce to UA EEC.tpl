@@ -14,7 +14,8 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "GA4 ecommerce to UA EEC",
-  "description": "This variable turns a GA4 ecommerce dataLayer object into Universal Analytics (GA3) Enhanced Ecommerce format.",
+  "categories": ["ANALYTICS", "TAG_MANAGEMENT", "UTILITY"],
+  "description": "This variable turns a GA4 ecommerce datalayer object into Universal Analytics (GA3) enhanced ecommerce format.",
   "containerContexts": [
     "WEB"
   ]
