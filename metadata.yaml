@@ -1,5 +1,9 @@
 homepage: "https://antonbies.com"
 documentation: "https://antonbies.com/gtm-templates/ga4-ecommerce-to-ua-enhanced-ecommerce/"
 versions:
+  # Latest version
+  - sha: d97fb96024571560db032891aebe3ecbc2905a45
+    changeNotes: Bug fix for when the purchase event contains a product list.
+  # Older versions
   - sha: 23d584e9566840f3936036fb396697ee2f79e680
     changeNotes: Initial release.
