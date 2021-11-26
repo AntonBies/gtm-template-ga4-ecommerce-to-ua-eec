@@ -242,7 +242,7 @@ if (ec.hasOwnProperty('items')) {
       product.position = item.index;
       const listvar = item.item_list_name;
       if (listvar) {
-        eec.detail.actionField = {list: listvar};
+        eec.purchase.actionField.list = listvar;
       }
       return product;
     });
