@@ -98,6 +98,7 @@ const mapItemToProduct = (i) => {
   let cat = '';
   for (let index in i) {
     if (index.indexOf('category') > -1) {
+      if (!i[index]) break;
       if (cat.length !== 0) {
         cat += '/';
       }
