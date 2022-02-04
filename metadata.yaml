@@ -5,7 +5,7 @@ versions:
   - sha: 66db52c6020315334d7fc88ee9eb0dce87cdfcc3
     changeNotes: Skip item_category keys with falsy value.
   # Older versions
-    - sha: d97fb96024571560db032891aebe3ecbc2905a45
+  - sha: d97fb96024571560db032891aebe3ecbc2905a45
     changeNotes: Bug fix for when the purchase event contains a product list.
   - sha: 23d584e9566840f3936036fb396697ee2f79e680
     changeNotes: Initial release.
